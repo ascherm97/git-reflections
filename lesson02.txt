@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+  just go to my project folder and run git init
+  that command will make my folder the repository
+  and that way git will now I'm working on a repository
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+  Because it allow us to keep only the files that we want in our commit and make us control what files should we commitm and what files aren't ready to commit
+
