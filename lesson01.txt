@@ -1,0 +1,43 @@
+Para ver las diferencias entre dos archivos (dos versiones de nuestro codigo)
+una herramienta para visualizar estas diferencias es el comando diff
+/*diff -u olderversion.ext newerversion.txt*/
+el output de esto mostrara los bloques de codigo que son diferentes
+mostrando con un '-' si se ha eliminado
+o con un '+' si se ha agregado la linea
+es una herramienta muy buena
+
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It was great because it's a lot more easy and fast
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Because it's faster find out where you made a typo, and also see if your code has improved
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pros are that makes your log cleaner and easy to understand sto someone else and its faster this way to find when something was done
+    The cons are that you get too many commits
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think it's because Git it's made for that purposse, for development mean while others are made for independt from other files
+
+How can you use the commands git log and git diff to view the history of files?
+
+	To watch all changes in the repository and see whats going out    
+
+How might using version control make you more confident to make changes that
+could break something?
+	
+	A lot because if i make a mistake I can easylly find out where i made it so I can make the code right again
+
+	   
+	Now that you have your workspace set up, what do you want to try using Git for?
+
+    Pretty much all all my coding projects
